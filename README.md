@@ -1,8 +1,8 @@
-- Simple contact manager app mainly focusing on functions 
-- using useState, useEffect, and props
+- Simple contact manager app mainly focusing on functions
+- Using useState, useEffect hooks and props
 - Adding in-line style
 - Passing function as a prop
 - React Router for navigation
-- setting up json-server to access contacts
-- using Axios as a promise based HTTP client for making HTTP requests
+- Setting up json-server to access contacts
+- Using Axios as a promise based HTTP client for making HTTP requests
 - Performing CRUD operations such as getting contacts, Adding new contacts, Deleting existing contacts, updating existing contacts
